@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{461082D3-7C43-4E4B-B5BF-8508C070F833}|Default">
+  <MonoDevelop.Ide.ItemProperties.FacadeSample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FacadeSample/Properties/AssemblyInfo.cs">
+    <Files>
+      <File FileName="FacadeSample/Program.cs" Line="10" Column="15" />
+      <File FileName="FacadeSample/Lamps/Lamp.cs" Line="26" Column="62" />
+      <File FileName="FacadeSample/Room/BigRoom.cs" Line="131" Column="4" />
+      <File FileName="FacadeSample/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

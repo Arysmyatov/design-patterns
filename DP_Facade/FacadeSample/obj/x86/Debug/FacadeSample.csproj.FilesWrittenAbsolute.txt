@@ -1,0 +1,5 @@
+/Users/andriyarysmyatov/Documents/Documents - Andriy’s MacBook Pro/Development/DotNet/DesignPatterns/DP_Facade/FacadeSample/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/andriyarysmyatov/Documents/Documents - Andriy’s MacBook Pro/Development/DotNet/DesignPatterns/DP_Facade/FacadeSample/bin/Debug/FacadeSample.exe.mdb
+/Users/andriyarysmyatov/Documents/Documents - Andriy’s MacBook Pro/Development/DotNet/DesignPatterns/DP_Facade/FacadeSample/bin/Debug/FacadeSample.exe
+/Users/andriyarysmyatov/Documents/Documents - Andriy’s MacBook Pro/Development/DotNet/DesignPatterns/DP_Facade/FacadeSample/obj/x86/Debug/FacadeSample.exe
+/Users/andriyarysmyatov/Documents/Documents - Andriy’s MacBook Pro/Development/DotNet/DesignPatterns/DP_Facade/FacadeSample/obj/x86/Debug/FacadeSample.exe.mdb
